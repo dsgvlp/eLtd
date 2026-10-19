@@ -1,2 +1,2 @@
 # eLtd
-Script LTD (Supérette) fait par moi parcque jme fesait chier gg
+Script LTD (Supérette) en RageUI V2
