@@ -1,6 +1,6 @@
 fx_version "cerulean"
 game "gta5"
-author "Earkyn le plus beau le plus frais"
+author "Funnyguy le plus beau le plus frais"
 
 shared_scripts {
     'shared/shared.lua',
